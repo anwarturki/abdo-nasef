@@ -2,10 +2,13 @@
   "name": "Abdo Nasef",
   "short_name": "AbdoApp",
   "start_url": "/abdo-nasef/",
+  "scope": "/abdo-nasef/",
   "display": "standalone",
-  "background_color": "#ffffff",
+  "background_color": "#3367D6",
   "theme_color": "#3367D6",
   "description": "التطبيق الرسمي لعبدو ناصف",
+  "version": "1.0.0",
+  "orientation": "portrait",
   "icons": [
     {
       "src": "/abdo-nasef/images/icon-192.png",
@@ -20,5 +23,8 @@
     }
   ],
   "lang": "ar",
-  "dir": "rtl"
+  "dir": "rtl",
+  "categories": ["entertainment"],
+  "screenshots": [],
+  "related_applications": []
 }
