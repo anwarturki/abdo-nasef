@@ -1,20 +1,24 @@
 {
   "name": "Abdo Nasef",
   "short_name": "AbdoApp",
-  "start_url": "index.html",
+  "start_url": "/abdo-nasef/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#3367D6",
+  "description": "التطبيق الرسمي لعبدو ناصف",
   "icons": [
     {
-      "src": "images/icon-192.png",
+      "src": "/abdo-nasef/images/icon-192.png",
       "sizes": "192x192",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
     },
     {
-      "src": "images/icon-512.png",
+      "src": "/abdo-nasef/images/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
-  ]
-    }
+  ],
+  "lang": "ar",
+  "dir": "rtl"
+}
