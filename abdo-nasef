@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <title>عبدو ناصف</title>
+    <link rel="stylesheet" href="main.css">
+</head>
+<body>
+    <div id="app">
+        <!-- Chat will render here -->
+    </div>
+    <script src="main.js"></script>
+</body>
+</html>
