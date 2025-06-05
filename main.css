@@ -1,0 +1,13 @@
+body {
+    font-family: 'Tajawal', sans-serif;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+#app {
+    border: 2px solid #FF5722;
+    border-radius: 10px;
+    min-height: 70vh;
+    padding: 15px;
+}
